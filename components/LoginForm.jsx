@@ -51,7 +51,7 @@ return (
           </div>
             )}
              <Link href={"/register"} className="text-sm">
-             Don't have an account?<span className="underline">
+             Don&apos;t have an account?<span className="underline">
              Register now
              </span>
              </Link>
